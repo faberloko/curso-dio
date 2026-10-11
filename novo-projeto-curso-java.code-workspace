@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "novo-projeto-curso-java",
+			"path": "../../novo-projeto-curso-java"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
